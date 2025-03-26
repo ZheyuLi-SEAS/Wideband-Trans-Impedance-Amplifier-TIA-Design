@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      shunyao
+HostName                       cha-cha.seas.upenn.edu
+ProcessIdentifier              12432
+ProcessCreationTime_UTC        1733721365
+ProcessCreationTime_Readable   Mon Dec  9 00:16:05 2024 EST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /mnt/castor/seas_home/s/shunyao/cadenceGPDK/ESE5720_Final_Project/TIA_Project/schematic/sch.oa.cdslck
+TimeEditLocked                 Mon Dec  9 01:09:46 2024 EST
